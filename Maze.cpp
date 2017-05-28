@@ -1077,7 +1077,7 @@ int main()
 			gotoxy(25, 12);
 			cputs("* Podaj nazwe pliku z labiryntem *");
 			gotoxy(25, 13);
-			cputs("* (plik musi byæ w formacie txt) *");
+			cputs("* (plik musi byÄ‡ w formacie txt) *");
 			gotoxy(25, 14);
 			cputs("*                                *");
 			gotoxy(25, 15);
